@@ -14,7 +14,7 @@ También se requiere una funcionalidad donde se pueda sugerir nuevos productos a
 
 ### Demo
 
-Si quieres ver la demo de este proyecto desplegada, puedes visitar [demo]
+Si quieres ver la demo de este proyecto desplegada, puedes visitar [demo](https://objective-sinoussi-95f889.netlify.app/)
 
 
 ### Equipo
